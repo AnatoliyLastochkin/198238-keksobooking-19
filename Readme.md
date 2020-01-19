@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Anatolii Lastochkin](https://up.htmlacademy.ru/javascript/19/user/198238).
-* Наставник: `Константин Мамаев`.
+* Наставник: `Константин Мамае`.
 
 ---
 
